@@ -5,7 +5,7 @@ Created on Tue Oct 13 22:45:26 2020
 
 @author: diyasaha
 """
-
+#Data files too big to upload to GitHub
 input_file = open('slim_chr2_seq.fasta','r')
 name = []
 seq = []
