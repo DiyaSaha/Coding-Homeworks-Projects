@@ -4,11 +4,13 @@ A collection of Homework Assignments/Projects (now removed due to research priva
 
 # Machine Learning Assisgnments 
 
-1) Multivariate Gaussian - from scratch  
+1) Bias Variance Decomposition - Illustration of the trade off between bias and variance in Supervised Learning (regression)
 
-2) Kmeans Clustering - from scratch. Results compared to SkLearn Package
+2) Kmeans Clustering - from scratch. Results compared to SkLearn Package.
 
+3) Linear Basis Function Models
 
+4) Multivariate Gaussian - from scratch  
 
 # Bioinoformatics Assignments  
 
@@ -23,4 +25,10 @@ slim_chr2_seq.fasta : Slimmed down Chromosome 2 for 90 individuals from http://w
 
 slim_chr2_SNPS.vcf : Previously characterized SNPs and information about them (genome location, reference SNP, variant SNP etc.) 
 
+2) Analyzing data from sets of single nucleotide polymorphisms (SNPs) that commonly vary in the human population. There are two datasets, extracted from http://23andme.com, one from the fictitious male, Greg Mendel, and the other from his wife, Lilly Mendel.Data files are poorly formated, so data is first extracted into dictionaries and some analysis is performed on each of their genomic data : 1) largest shared region of SNPs between the two, 2) identifying what the region between 22070000 and 22106000 on chromosome 9 suggest about Greg’s chance of heart disease 3) Finding a SNP from SNPedia.com, and checking what status of that SNP is in both Lilly and Greg 
 
+Data Files: 
+
+LillyMendel_SNPs
+GregMended_SNPs
+SNP_defitions
