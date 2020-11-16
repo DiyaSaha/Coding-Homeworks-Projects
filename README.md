@@ -30,5 +30,7 @@ slim_chr2_SNPS.vcf : Previously characterized SNPs and information about them (g
 Data Files: 
 
 LillyMendel_SNPs
+
 GregMended_SNPs
+
 SNP_defitions
