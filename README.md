@@ -1,5 +1,7 @@
 # Coding-Homeworks-Projects
 
+A collection of Homework Assignments/Projects (now removed due to research privacy) 
+
 # Machine Learning Assisgnments 
 
 1) Multivariate Gaussian - from scratch  
@@ -16,6 +18,9 @@ With next-generation sequencing technology, researchers are now collecting whole
 
 
 Data Files: 
+
 slim_chr2_seq.fasta : Slimmed down Chromosome 2 for 90 individuals from http://www.1000genomes.org/ 
+
 slim_chr2_SNPS.vcf : Previously characterized SNPs and information about them (genome location, reference SNP, variant SNP etc.) 
-lymphoma_variants.txt : 
+
+
