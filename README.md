@@ -1,5 +1,14 @@
 # Coding-Homeworks-Projects
 
+# Machine Learning Assisgnments 
+
+1) Multivariate Gaussian - from scratch  
+
+2) Kmeans Clustering - from scratch. Results compared to SkLearn Package
+
+
+
+# Bioinoformatics Assignments  
 
 1) Characterizing SNPs and Discovering New Variants 
 Background:
