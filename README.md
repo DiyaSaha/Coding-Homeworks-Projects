@@ -1,6 +1,6 @@
 # Coding-Homeworks-Projects
 
-A collection of Homework Assignments/Projects (now removed due to research privacy) 
+A collection of Homework Assignments/Projects
 
 # Machine Learning Assisgnments 
 
