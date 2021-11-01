@@ -4,11 +4,9 @@ A collection of Homework Assignments/Projects
 
 # Machine Learning Assisgnments 
 
-1) Bias Variance Decomposition - Illustration of the trade off between bias and variance in Supervised Learning (regression)
+1) Kmeans Clustering - from scratch. Results compared to SkLearn Package.
 
-2) Kmeans Clustering - from scratch. Results compared to SkLearn Package.
-
-3) Linear Basis Function Models
+2) Linear Basis Function Models
 
 
 # Bioinoformatics Project  
