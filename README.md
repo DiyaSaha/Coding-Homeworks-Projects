@@ -6,9 +6,6 @@ A collection of Homework Assignments/Projects
 
 1) Kmeans Clustering - from scratch. Results compared to SkLearn Package.
 
-2) Linear Basis Function Models
-
-
 # Bioinoformatics Project  
 
 1) Analyzing data from sets of single nucleotide polymorphisms (SNPs) that commonly vary in the human population. There are two datasets, extracted from http://23andme.com, one from the fictitious male, Greg Mendel, and the other from his wife, Lilly Mendel.Data files are poorly formated, so data is first extracted into dictionaries and some analysis is performed on each of their genomic data : 1) largest shared region of SNPs between the two, 2) identifying what the region between 22070000 and 22106000 on chromosome 9 suggest about Greg’s chance of heart disease 
