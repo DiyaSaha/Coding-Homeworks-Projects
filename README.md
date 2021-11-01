@@ -2,9 +2,6 @@
 
 A collection of Homework Assignments/Projects
 
-# Machine Learning Assisgnments 
-
-1) Kmeans Clustering - from scratch. Results compared to SkLearn Package.
 
 # Bioinoformatics Project  
 
@@ -29,3 +26,7 @@ Questions planning to answer:
 4) Does US fare significantly better than the Rest of the World in terms of total purchases?
 5)  "People who spent an above average amount on gold in the last 2 years would have more in store purchases" - Justify or refute this statement using an appropriate statistical test
 etc.
+
+# Machine Learning Assisgnments 
+
+1) Kmeans Clustering - from scratch. Results compared to SkLearn Package.
